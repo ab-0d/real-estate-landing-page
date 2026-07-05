@@ -298,11 +298,7 @@ ul { list-style: none; }
   position: absolute; bottom: 2rem; left: 50%;
   transform: translateX(-50%); z-index: 2;
 }
-.mouse {
-  display: block; width: 26px; height: 42px;
-  border: 2px solid var(--gold); border-radius: 14px;
-  position: relative;
-}
+
 .wheel {
   position: absolute; top: 8px; left: 50%;
   width: 4px; height: 8px; background: var(--gold);
